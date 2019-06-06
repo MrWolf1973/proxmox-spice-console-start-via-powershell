@@ -25,3 +25,5 @@ $username = '-- Username including (@pam or @pve) --'
 $password = '-- password --'  
 $remoteviewer = '-- Path to remote-viewer.exe (e.g. C:\Program Files\VirtViewer v7.0-256\bin\remote-viewer.exe) --'  
 ```
+* right click on the updated script and select "execute with power shell"
+* gl hf  
