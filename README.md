@@ -15,7 +15,8 @@ Start on a windows 10 client the spice console from a virtual machine hosted by 
   
 ## Usage  
 * Update the script header with your environment specific data  
-'''
+
+''' powershell
 # environment specific variables  
 $node = '-- Host name FQN --'  
 $nodename = '-- Node name on the left of your admin ui (default pve) --'  
