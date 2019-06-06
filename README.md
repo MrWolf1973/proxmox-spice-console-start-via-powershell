@@ -16,7 +16,7 @@ Start on a windows 10 client the spice console from a virtual machine hosted by 
 ## Usage  
 * Update the script header with your environment specific data  
 
-''' powershell
+```
 # environment specific variables  
 $node = '-- Host name FQN --'  
 $nodename = '-- Node name on the left of your admin ui (default pve) --'  
@@ -24,4 +24,4 @@ $vmid = '-- ID of your VM (e.g. 100) --'
 $username = '-- Username including (@pam or @pve) --'  
 $password = '-- password --'  
 $remoteviewer = '-- Path to remote-viewer.exe (e.g. C:\Program Files\VirtViewer v7.0-256\bin\remote-viewer.exe) --'  
-'''
+```
