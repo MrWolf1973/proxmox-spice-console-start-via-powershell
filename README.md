@@ -15,5 +15,6 @@ Preperation steps
 	(optional) Create a special user to not expose your admin password to a local script
 
 Usage
+	Update the script header with your environment specific data
 	
 	
