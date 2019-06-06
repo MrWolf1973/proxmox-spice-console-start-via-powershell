@@ -13,4 +13,7 @@ Assumption
 Preperation steps
 	If you have a self singed certificate copy the pem file from the proxmox server to your client and install it. see https://pve.proxmox.com/wiki/Import_certificate_in_browser
 	(optional) Create a special user to not expose your admin password to a local script
+
+Usage
+	
 	
